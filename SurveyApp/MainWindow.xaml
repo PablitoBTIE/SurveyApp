@@ -36,5 +36,6 @@
         <Button Content="Zapisz Ankietę" Width="130" Height="35" Margin="0,0,0,10" 
                 Grid.Row="4" HorizontalAlignment="Center" FontSize="13" 
                 Background="MediumSeaGreen" Foreground="White" Click="SaveSurveyButton_Click"/>
+        
     </Grid>
 </Window>
